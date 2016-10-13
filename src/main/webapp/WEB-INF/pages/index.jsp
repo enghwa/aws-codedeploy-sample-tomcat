@@ -86,7 +86,7 @@
       <p><i>Why can't your canine companion be classy too?</i></p>
     </div>
     <div class="page-header">
-      <h1>Meet The Class Dogs</h1>
+      <h1>Meet The Fancy Dogs</h1>
     </div>
 
     <div class="row">
